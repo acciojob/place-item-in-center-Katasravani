@@ -4,6 +4,8 @@
 	display:flex;
 	justify-content:center;
 	align-items:center;
+	flex-direction:row;
+	flex-wrap:no-wrap;
 	width:100vw;
 	height:100vh;
 }
